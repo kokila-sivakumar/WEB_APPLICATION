@@ -1,0 +1,29 @@
+form{
+    padding: 50px;
+    margin: 10px 350px;
+    border-color: black;
+}
+.field{
+    width: 450px;
+    height: 450px;
+    border-color: black;
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+
+}
+body {
+    background-image: url('nature.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+button{
+    color: black;
+    background-color: gray;
+}
+button:hover{
+    color: black;
+    background-color: darkolivegreen;
+}

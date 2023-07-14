@@ -1,0 +1,49 @@
+.form{
+    padding: 50px;
+    margin: 10px 350px;
+    border-color: black;
+}
+.field{
+    width: 600px;
+    height: 450px;
+    border-color: black;
+    background-color: aquamarine;
+}
+.register{
+    text-align: center;
+
+}
+label{
+    color: black;
+    display: block;
+    font-weight: bold;
+    float: left;
+    display: block;
+    text-align: justify;
+}
+input {
+    padding-left: 100px;
+    margin-left: 30px;
+    float: right;
+    padding-top: 2px;
+       
+}
+button{
+    font-style: normal;
+    font-size: 18px;
+    color: #FFF;
+    padding: 19px 39px 18px 39px;
+    background-color: darkslategray;
+    border-radius: 5px;
+    width: 600px;
+    border: 1px solid darkslategray;
+    border-width: 1px 1px 3px;
+    box-shadow: 1 -1px 0 rgba(255,255,255,0.1);
+    text-align: center;
+    border-left: 10px;
+}
+.submit{
+    text-align: center;
+    color: white;
+    padding-left: 20px;
+}
